@@ -1,2 +1,5 @@
 # MIT6_189
- Solución completa y dinámica del curso de Python: MIT1_189.
+
+¡Bienvenidos a 6.189! Este curso les ofrecerá una introducción completa y dinámica a Python.
+
+Este repositorio contiene la solución de las tareas y de los proyectos del curso.
